@@ -1,0 +1,7 @@
+#Exercise 7.27
+#Fungsi List - Fungsi max() dan min()
+
+a = [10,40,30]
+print("a= ", a)
+print("min a= ", min(a))
+print("max a= ", max(a))
